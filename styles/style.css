@@ -1,0 +1,19 @@
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    color: darkred;
+
+}
+
+main h3 {
+    size: 90%;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+}
